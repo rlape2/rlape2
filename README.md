@@ -1,5 +1,5 @@
 ![](https://img.shields.io/github/followers/rlape2?style=social)
-
+[![](https://img.shields.io/badge/Robby's-LinkedIn-blue)](https://www.linkedin.com/in/robby-lape/)
 
 ### Hi there 👋
 
