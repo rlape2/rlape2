@@ -4,18 +4,14 @@
 ### My name is Robby and I am a Geography student at the University of Tennessee 📙
 
 ### Skills 🧰
-* ArcGIS  
-* Python 
-* Jupyter Lab
-* Google Earth Engine
-* Land Use Analysis 
-* Spatial Analysis 
-* Lidar/Remote Sensing 
-* Terrain Analysis
-* GPS 
-* 3D Modeling 
-* Cloud Computing
-* Excel
+* ArcGIS                          * Lidar/Remote Sensing 
+* Python                          * Terrain Analysis
+* Jupyter Lab                     * GPS 
+* Google Earth Engine             * 3D Modeling 
+* Land Use Analysis               * Cloud Computing          
+* Spatial Analysis                * Excel 
+
+
 
 
 <!--
