@@ -3,6 +3,21 @@
 
 ### Hi there 👋
 
+### Skills 🧰
+* ArcGIS  
+* Python 
+* Jupyter Lab
+* Google Earth Engine
+* Land Use Analysis 
+* Spatial Analysis 
+* Lidar/Remote Sensing 
+* Terrain Analysis
+* GPS 
+* 3D Modeling 
+* Cloud Computing
+* Excel
+
+
 <!--
 **rlape2/rlape2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
